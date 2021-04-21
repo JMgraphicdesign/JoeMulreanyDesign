@@ -3,14 +3,17 @@ body {
   font-family: 'Montserrat';
 }
 
-.sitetitle{
+.sitetitle {
   color: #fff;
   font-family: Montserrat;
   font-weight: 900;
 }
 
-.profileimage{
-  margin-top:10%;
+.profileimage {
+  margin-top: 10%;
+  width: 300px;
+  height: 300px;
+  border-radius: 300px;
 }
 
 /* ID's */
@@ -56,7 +59,7 @@ body {
   padding: 7% 15%;
 }
 
-.testimonial-icon{
+.testimonial-icon {
   color: #ec632b;
 }
 
@@ -147,4 +150,31 @@ body {
 
 .text-center {
   text-align: center;
+}
+
+/* Media Queries */
+@media (max-width: 900px) {
+  .sitetitle {
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    line-height: 1.5;
+  }
+
+  .titletext {
+    font-weight: bold;
+  }
+
+  .profileimage {
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+  }
+
+}
+
 }
