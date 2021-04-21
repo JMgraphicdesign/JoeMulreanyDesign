@@ -91,6 +91,28 @@ body {
   width: 500px;
 }
 
+/* Packages Section */
+
+#packages{
+  padding: 7% 15%;
+}
+
+.packagetitle{
+  text-align: center;
+  text-decoration: underline;
+  padding-bottom:40px;
+}
+.pricing-column{
+  padding:2%;
+}
+.card-header{
+  text-align: center;
+  padding-top: 4%
+}
+
+.card-body{
+  font-size:11pt;
+}
 /* Footer Section */
 #footer {
   padding: 30px;
