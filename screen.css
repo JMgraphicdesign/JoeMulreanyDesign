@@ -92,27 +92,33 @@ body {
 }
 
 /* Packages Section */
-
-#packages{
+#packages {
   padding: 7% 15%;
 }
 
-.packagetitle{
+.packagetitle {
   text-align: center;
   text-decoration: underline;
-  padding-bottom:40px;
+  padding-bottom: 40px;
 }
-.pricing-column{
-  padding:2%;
+
+.pricing-column {
+  padding: 2%;
 }
-.card-header{
+
+.card-header {
   text-align: center;
   padding-top: 4%
 }
 
-.card-body{
-  font-size:11pt;
+.card-body {
+  font-size: 11pt;
 }
+
+.package-button{
+  text-align: center;
+}
+
 /* Footer Section */
 #footer {
   padding: 30px;
@@ -197,9 +203,7 @@ body {
     border-radius: 250px;
   }
 
-
-.portfolio-image {
-  width: 250px;
-}
-
+  .portfolio-image {
+    width: 250px;
+  }
 }
