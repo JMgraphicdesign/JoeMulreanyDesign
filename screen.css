@@ -1,0 +1,140 @@
+/* Selectors */
+body {
+  font-family: 'Montserrat';
+}
+
+/* ID's */
+#Title {
+  background-color: #000;
+  color: #ec632b;
+}
+
+#Title h2 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#Title p {
+  color: white;
+}
+
+/* Services Section */
+#services {
+  background-color: white;
+  padding: 7% 15%;
+}
+
+#services h2 {
+  font-family: Montserrat;
+  font-weight: bold;
+  padding-bottom: 40px;
+}
+
+#services p {
+  color: gray;
+}
+
+/* Testimonials section */
+#testimonial {
+  text-align: center;
+}
+
+#testimonial h3 {
+  color: #000;
+  padding: 7% 15%;
+}
+
+.testimonial-icon{
+  color: #ec632b;
+}
+
+/* Portfolio Section */
+#Portfolio {
+  text-align: center;
+  background-color: #ec632b;
+}
+
+#Portfolio h2 {
+  color: #000;
+  padding: 7% 23%;
+}
+
+#Portfolio a {
+  color: #000;
+}
+
+.carousel-item {
+  padding: 2% 15%;
+  padding-bottom: 5%
+}
+
+.carousel-button {
+  background-color: #ec632b;
+}
+
+.portfolio-image {
+  width: 35%;
+}
+
+/* Footer Section */
+#footer {
+  padding: 30px;
+  text-align: center;
+  background: #000;
+  color: #ec632b;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 10px;
+}
+
+.icon {
+  padding-bottom: 30px;
+  color: #ec632b;
+}
+
+.icon:hover {
+  color: #b14a20;
+}
+
+.footicon {
+  color: #ec632b;
+  padding: 2%;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding-bottom: 3.5rem;
+}
+
+.navbar-brand {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-family: 'Montserrat';
+  font-size: 12pt;
+  font-weight: 300;
+}
+
+/* Body Containers */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.title-text {
+  padding: 40px;
+  padding-bottom: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
