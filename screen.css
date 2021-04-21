@@ -3,6 +3,10 @@ body {
   font-family: 'Montserrat';
 }
 
+.profileimage{
+  margin-top:10%;
+}
+
 /* ID's */
 #Title {
   background-color: #000;
