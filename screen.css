@@ -3,6 +3,12 @@ body {
   font-family: 'Montserrat';
 }
 
+.sitetitle{
+  color: #fff;
+  font-family: Montserrat;
+  font-weight: 900;
+}
+
 .profileimage{
   margin-top:10%;
 }
